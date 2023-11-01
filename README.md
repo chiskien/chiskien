@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Nguyen Chi Kien, a Junior Software Engineer
 
+- I am desire to become a proficient Software Engineer and Software Architect
+- I keen on solving problem in real-world using Java as my favorite tool
 <!--
 **chiskien/chiskien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

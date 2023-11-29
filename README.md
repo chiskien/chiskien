@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Nguyen Chi Kien, a Junior Software Engineer
 
-- I am desire to become a proficient Software Engineer and Software Architect
-- I keen on building fault-tolerated, scalability as well as distributed systems with Java, Go
+- I aspire to become a proficient Software Engineer and Software Architect.
+- I am keen on building fault-tolerant, scalable, and distributed systems using Java and Go.
 <!--
 **chiskien/chiskien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

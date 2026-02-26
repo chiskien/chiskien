@@ -24,5 +24,7 @@
      - Git/GitHub, Bitbucket
      - Flyway
 - My projects:
-  1. [Excellent Bookshop](https://github.com/orgs/Excellent-Bookshop/repositories)
-  2. [ChisKien Java PlayGround](https://github.com/chiskien/cjp)
+  1. [Excellent Bookshop](https://github.com/orgs/Excellent-Bookshop/repositories): Spring Boot, Java
+  2. [ChisKien Java PlayGround](https://github.com/chiskien/cjp): Java PlayGround
+  3. [CDLC UI](https://github.com/chiskien/cdlc-ui): Using React, Typescript, Firebase
+  4. [Pizza Hub](https://github.com/chiskien/pizza-hub): Using C# .NET and Razor Pages, SQL Server

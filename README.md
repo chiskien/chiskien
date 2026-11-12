@@ -2,13 +2,12 @@
 
 - I aspire to become a proficient Software Engineer and Software Architect.
 - I am keen on building fault-tolerant, scalable, and distributed systems using Java and Go
+- I am can also working properly in Data Engineering field and DevOps/SRE 
 - My Skills:
   1. Programming Languages:
      - Java (My most fluent)
-     - Go
+     - Go 
      - Python
-     - Typescripts
-     - C#
   2. Frameworks and Platforms:
      - Spring/Spring Boot
      - Spring Data
@@ -23,8 +22,33 @@
      - Open API
      - Git/GitHub, Bitbucket
      - Flyway
+     - Apache Pandas
+     - Apache Kafka
+     - Apache Airflow
+  3. Data Engineering
+     - MySQL (OLTP)
+     - Oracle (OLTP)
+     - Redis
+     - Google Cloud BigQuery (OLAP)
+  4. Cloud Engineer
+     - Google Cloud Compute Engine
+     - Google Cloud Kubernetes Engine
+     - IAM and Service Account
+     - Google Cloud Run and Cloud Function
+     - Google Cloud Storage
+     - Google Cloud Pubsub
+  5. DevOps
+     - Docker
+     - Kubernetes
+     - Jenkins
+     - Shell Scripts
+     - CI/CD
+     - Linux and Unix
+  6. Forward Deployed Engineer
 - My projects:
   1. [Excellent Bookshop](https://github.com/orgs/Excellent-Bookshop/repositories): Spring Boot, Java
-  2. [ChisKien Java PlayGround](https://github.com/chiskien/cjp): Java PlayGround
-  3. [CDLC UI](https://github.com/chiskien/cdlc-ui): Using React, Typescript, Firebase
-  4. [Pizza Hub](https://github.com/chiskien/pizza-hub): Using C# .NET and Razor Pages, SQL Server
+  2. [CDLC UI](https://github.com/chiskien/cdlc-ui): Using React, Typescript, Firebase
+  3. [Pizza Hub](https://github.com/chiskien/pizza-hub): Using C# .NET and Razor Pages, SQL Server
+  4. Financial Services (TBD)
+  5. Excellent Movies processor (TBD)
+  6. My Bitwarden Clone (TBD)
